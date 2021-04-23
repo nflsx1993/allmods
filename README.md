@@ -33,18 +33,47 @@ Nld.
 SYSTEM REQUIREMENTS
 
 MINIMUM:
-Requires an 86 or 64-bit processor and operating system
-OS: Microsoft ® Windows ® 7
-Processor: 1.2GHz processor (Intel Core i5 and up)
-RAM: 512 GB RAM
-Video card: DirectX 9, 10, 11, or 12 compatible card
-Disk space: 150 MB
+- Requires an 86 or 64-bit processor and operating system
+- OS: Microsoft ® Windows ® 7
+- Processor: 1.2GHz processor (Intel Core i5 and up)
+- RAM: 512 GB RAM
+- Video card: DirectX 9, 10, 11, or 12 compatible card
+- Disk space: 150 MB
 
 RECOMMENDED:
 
 Requires an 86 or 64-bit processor and operating system
-OS: Microsoft ® Windows ® 10
-Processor: Dual Core Intel i5 and above
-RAM: 2 GB RAM
-Video card: Nvidia GeForce 700 series or greater
-DirectX: Version 11
+- OS: Microsoft ® Windows ® 10
+- Processor: Dual Core Intel i5 and above
+- RAM: 2 GB RAM
+- Video card: Nvidia GeForce 700 series or greater
+- DirectX: Version 11
+
+
+Russian search sites:
+
+- https://genapilot.ru/mods 
+- https://igrigo.net/mody/
+- https://all-mods.ru/
+- http://playmap.ru/extra/mods/
+- https://modeland.ru/mods/
+- https://www.playground.ru/file
+
+English search sites:
+
+- https://www.minecraftmods.com/
+- https://www.nexusmods.com/mods/
+- https://www.moddb.com/mods
+- https://steamcommunity.com/workshop/
+- https://www.gamewatcher.com/mods
+
+Japan search sites:
+
+- https://www.conoha.jp/
+- https://www.gamespark.jp/
+- https://goshbox.work/
+- https://www.tntmodders.com/
+
+
+And others...
+
