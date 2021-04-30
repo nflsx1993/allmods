@@ -1,3 +1,6 @@
+Update 1.1
+Intrafe corrections added
+
 AllMods is an open source game mods search engine with automatic scanning, recognition of your queries, tags, and instant search.
 
 AllMods defines a new way to implement mods search for games.
